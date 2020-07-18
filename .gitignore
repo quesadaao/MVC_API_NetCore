@@ -1,0 +1,10 @@
+Solution/Solution.API/obj/
+Solution/Solution.BS/bin/
+Solution/Solution.BS/obj/
+Solution/Solution.DAL.EF/obj/
+Solution/Solution.DAL.Repository/bin/
+Solution/Solution.DO/bin/
+Solution/Solution.DO/obj/
+SolutionAPIW/.vs/
+SolutionAPIW/Solution.APIW/bin/
+SolutionAPIW/Solution.APIW/obj/
