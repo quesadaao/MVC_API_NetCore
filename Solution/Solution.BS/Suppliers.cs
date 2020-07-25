@@ -32,6 +32,7 @@ namespace Solution.BS
 
         public void Insert(data.Suppliers t)
         {
+            t.SupplierID = null;
             new Solution.DAL.Suppliers(_solutionDBContext).Insert(t);
         }
 

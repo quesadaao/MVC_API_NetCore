@@ -14,5 +14,6 @@ namespace Solution.DAL.EF
         }
 
         public DbSet<Suppliers> suppliers { get; set; }
+        public DbSet<Categories> categories { get; set; }
     }
 }
